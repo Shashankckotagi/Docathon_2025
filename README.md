@@ -26,3 +26,13 @@ To make gastrointestinal disease screening faster, explainable, and doctor-super
 
 AI assists — doctors decide.
 GutSense is designed to support, not replace, medical judgment.
+
+📁 Note on Dataset
+
+The original dataset used for this project is over 1GB in size and contains 590+ feature columns.
+Because it exceeds GitHub’s storage limits and Git LFS quota, the dataset is not included in this repository.
+
+Dataset is a csv file.
+
+
+If required, the dataset can be accessed separately from its source and processed using the same pipeline implemented here.
